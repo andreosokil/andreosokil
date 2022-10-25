@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Andrii!
+- 👀 I’m interested in data science.
+- 🌱 I’m currently studyindg at EPAM University.
